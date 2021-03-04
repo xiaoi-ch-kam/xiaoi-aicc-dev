@@ -1,0 +1,30 @@
+{
+  "id": "2395828",
+  "name": "test",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "20089569",
+      "name": "file-copy-2-fill",
+      "font_class": "file-copy-2-fill",
+      "unicode": "e714",
+      "unicode_decimal": 59156
+    },
+    {
+      "icon_id": "20089579",
+      "name": "file-edit-fill",
+      "font_class": "file-edit-fill",
+      "unicode": "e719",
+      "unicode_decimal": 59161
+    },
+    {
+      "icon_id": "20125901",
+      "name": "风险预警",
+      "font_class": "fengxianyujing",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1614681204448'); /* IE9 */
+  src: url('iconfont.eot?t=1614681204448#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOkAAsAAAAAB+gAAANYAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqDEIJsATYCJAMQCwoABCAFhG0HXBvyBhFVnCPIfiTYtpHTHf2MCr3IWgme/9ep9+l/OT+SUXGR2HYJSEXakO2cbuna7s1GNJZhcgMEEJjd2rTDTaEjDFNyHnyXZ+Sf5+eFMHq+TlepClkh+8f91EWK5bNvc4kqiige7QY4bh1YdJBtIAPyDWM3UR7EZgjg0JTOyOixkxMYNKCXALJh7eqlmJQWXZMuGIRAyUSNXMbGWGesQuAS/758pKcYsLAVYOD0VWNWMPxN7tsGys/6FlAUvPHMgDYNFNAZ0CBrSq3LUGGgMwrHaa7pCxgMFoxVF3/bIJuV+HuRGiil7x/PAgkAUoMA9BaDCt7kYgQK3sYRCLxtkIIF8ELkpndoD3BX1zUGHKxR2A0DWtezlTFRN7BejmTaRR49Q/tPHQeyVOvg2bTYNzKuG7JcOziHkCSwZH8xOfw4JnQu00iFWh/GCtz5M1Y4smo2+2cUFyecsrKtTmlpalZJyTKUlSRJWGZLAQsf7+55+CL9XFw/fvXpvNm4Cel42Pd2R4me8pLeac9PqJtng9FJ2eOVJDMpMokOKVLZ9Ai2/vz50/Dx+ZyOgbdHSDff7d09fLig4GP160mThgwuvlpcUkp0eaRwZPepF/TMpF61IP9rHhPNTLFypsLJA8UByy/Pr7vsCstLE4lO6U7EVMpym5VdbqFv/Rzaany5xDPe4qP/L188/P5VCrdnCwDZEuWrThxbGypSaVX3z/2GzVN3DFwcGfzbuBqA6hV9doj2bJGmPe/18xzef+K1zNOuAOi0toWY66VqemDDDac5OMDfiYBH7RjyOq19IJgUTwOLHJqAwtAarfGdwcalNwQwOIaBo5NquisP2ZPlAh29BRBRH7CEvQQl6ovW+B/Y6vpDQDQFjlR5C7rattYZtQ1rxg6aF6jWO4EMfAjSrygnU1NSwClPpFG5IYvTbLhChzTGkHGWObMAQd5CKWyHxngI5AdsOe6ZQ5EkouxNcevt5mAUgmoMdUDjBSgtzxG0ODvkPn+FpIlRo5qcDvMTIiPVOMjE0hboSupa5VzLNaOZlGNMAALxLFAK7ZBheCCUtxugFov1PXxBIYGFRFtpPL/cPuESwAGW1VmiRItN9Mpg1PrwivIo1ppLxoWdYm3USidXVbvXNCgnNxs=') format('woff2'),
+  url('iconfont.woff?t=1614681204448') format('woff'),
+  url('iconfont.ttf?t=1614681204448') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1614681204448#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-file-copy-2-fill:before {
+  content: "\e714";
+}
+
+.icon-file-edit-fill:before {
+  content: "\e719";
+}
+
+.icon-fengxianyujing:before {
+  content: "\e609";
+}
+
