@@ -1,7 +1,7 @@
 {
   "name": "xiaoi-aicc-dev",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "main": "meta.js",
   "scripts": {
     "serve": "vue-cli-service serve",
